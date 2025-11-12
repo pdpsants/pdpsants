@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hi! My name is Pedro Lucas, I’m 19 years old, and I’m a developer specialized in creating applications, websites, and Discord bots.<br>I started in the tech field at a young age, and since then, I’ve been passionate about learning new technologies and building digital solutions that make a difference.<br>I enjoy transforming ideas into functional, user-friendly products — especially through automation and interactive experiences on Discord — and I’m always looking to grow as a professional developer.</p>
+<p align="left">Hi! My name is Pedro Lucas, I’m 19 years old, and I’m a developer specialized in creating applications, websites, and Discord bots.<br>I started in the tech field at a young age, and since then, I’ve been passionate about learning new technologies and building digital solutions that make a difference.<br>I enjoy transforming ideas into functional, user-friendly products , especially through automation and interactive experiences on Discord and I’m always looking to grow as a professional developer.</p>
 
 ###
 
